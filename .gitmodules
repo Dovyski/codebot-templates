@@ -1,0 +1,3 @@
+[submodule "js-phaser-complete-game/files"]
+	path = js-phaser-complete-game/files
+	url = https://github.com/Dovyski/zombie-avoider.git
